@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0820"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A080F3C81EC168B700C3BC68"
+               BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.app"
+               BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;"
+               ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A080F3E11EC168B800C3BC68"
+               BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;Tests.xctest"
+               BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;Tests"
+               ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "A080F3EC1EC168B800C3BC68"
+               BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;UITests.xctest"
+               BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;UITests"
+               ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A080F3C81EC168B700C3BC68"
+            BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.app"
+            BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;"
+            ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A080F3C81EC168B700C3BC68"
+            BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.app"
+            BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;"
+            ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "A080F3C81EC168B700C3BC68"
+            BuildableName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.app"
+            BlueprintName = "&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;"
+            ReferencedContainer = "container:&#x6ca1;&#x7528;&#x811a;&#x672c;&#x7684;&#x7f16;&#x8bd1;ffmpeg-ios&#x7248;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
